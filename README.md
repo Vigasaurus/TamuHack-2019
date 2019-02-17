@@ -1,2 +1,2 @@
-# TamuHack-2019
-TAMUHack 2019 Code
+# TamuMake-2019
+TAMUMake 2019 Code
